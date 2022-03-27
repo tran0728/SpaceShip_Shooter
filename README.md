@@ -16,9 +16,9 @@ To work with this code, you will first need to install [Node.js](https://nodejs.
 How to run:
 ```
 npm install
-
-```
 npm run start
+```
+
 ```
 
 Webpack should launch your program in a web browser automatically.  If not, you can run it by pointing your browser at `http://localhost:8080`.
