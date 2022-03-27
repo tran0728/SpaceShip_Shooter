@@ -1,5 +1,7 @@
 **Space Minesweeper**
 
+Play at: https://csci-4611-spring-2022.github.io/assignment-1-tran0728/
+
 - Uses TypeScript and Node.js
 - Works with 2D graphics coordinate systems and primitives
 - Animates computer graphics based on user input
